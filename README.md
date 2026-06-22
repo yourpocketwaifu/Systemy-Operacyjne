@@ -1,13 +1,13 @@
 # **Systemy operacyjne (SO)**
 
-**Spis treści:**
-1. [Wprowadzenie do systemów operacyjnych.](#Wprowadzenie do systemów operacyjnych.)
-2. [Procesy.](#Procesy)
-3. [Szeregowanie procesów.](#Szeregowanie procesów.)
-4. [Komunikacja i synchronizowanie procesów.](#Komunikacja i synchronizowanie procesów.)
-5. [Pamięć pomocnicza i systemy plików.](#Pamięć pomocnicza i systemy plików.)
-6. [Zarządzanie pamięcią operacyjną i współdzielenie pamięci.](#Zarządzanie pamięcią operacyjną i współdzielenie pamięci.)
-7. [Zarządzanie systemem wejścia/wyjścia.](#Zarządzanie systemem wejścia/wyjścia.)
+## Spis treści
+1. [Wprowadzenie do systemów operacyjnych](#wprowadzenie-do-systemów-operacyjnych)
+2. [Procesy](#procesy)
+3. [Szeregowanie procesów](#szeregowanie-procesów)
+4. [Komunikacja i synchronizowanie procesów](#komunikacja-i-synchronizowanie-procesów)
+5. [Pamięć pomocnicza i systemy plików](#pamięć-pomocnicza-i-systemy-plików)
+6. [Zarządzanie pamięcią operacyjną i współdzielenie pamięci](#zarządzanie-pamięcią-operacyjną-i-współdzielenie-pamięci)
+7. [Zarządzanie systemem wejścia/wyjścia](#zarządzanie-systemem-wejściawyjścia)
 
 
 
