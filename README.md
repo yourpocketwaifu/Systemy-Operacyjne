@@ -1,6 +1,10 @@
 # **Systemy operacyjne (SO)**
 
-
+**Spis treści:**
+1. [Wprowadzenie do systemów operacyjnych.](#wstęp)
+2. [Procesy](#instalacja)
+3. [Użycie](#użycie)
+   3.1 [Konfiguracja podstawowa](#konfiguracja-podstawowa)
 
 
 
